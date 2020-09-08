@@ -5,7 +5,8 @@
       "uri": "/demo"
     },
     "response": {
-      "text": "第一mock例子的response"
+      "text": "第一mock例子的response",
+      "headers":{"Content-Type":"text/html;charset=gbk"}
     }
 
   }
